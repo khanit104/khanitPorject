@@ -39,7 +39,7 @@ class BlockChain:
         self.blockchainList.append(block)
 
 ## เริ่มสร้าง blockchain
-# print("=============เริ่มสร้าง block=============")
+
 block=BlockChain()
 
 # print(block.blockNo)
