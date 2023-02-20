@@ -38,7 +38,7 @@ class BlockChain:
         }
         self.blockchainList.append(block)
 
-## เริ่มสร้าง blockchain..
+## เริ่มสร้าง blockchain.
 
 block=BlockChain()
 
