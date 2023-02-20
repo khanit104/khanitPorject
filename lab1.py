@@ -50,7 +50,7 @@ block=BlockChain()
 # print(block.timestamp)
 # print(block.blockchainList)
 
-# print("=============hash block=============")
+
 block.hashblock()
 # print(block.blockNo)
 # print(block.nonce)
